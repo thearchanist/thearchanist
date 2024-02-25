@@ -1,0 +1,4 @@
+- 👋 Hello, we are the team @thearchanist
+- 👀 We are deeply interested in developing websites that focus on system efficiency.
+- 🌱 Currently, we are learning various programming languages, and each of us has a keen interest in specific fields.
+- 💞️ We are eager to collaborate on projects that blend innovation with efficiency improvement.
